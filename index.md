@@ -1,5 +1,5 @@
 
-### [**syscall**](#definitions)
+title: [syscall](#definitions)
 # *all things pc*
 
 ## **What's here?**
