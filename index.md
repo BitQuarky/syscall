@@ -1,14 +1,16 @@
----
-title: [syscall](#definitions)
----
-
+### [syscall](#definitions)
 > # *all things pc*
 
-## **What's here?**
 
+
+## **What's here?**
 nothing- yet
 
+
+
 feel free to make a pull request fixing anything incorrect I write down. I don't always gurantee accuracy, these are my thoughts more than anything
+
+
 
 ### definitions {#definitions}
 syscall
