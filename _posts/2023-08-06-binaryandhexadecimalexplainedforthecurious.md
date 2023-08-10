@@ -2,6 +2,7 @@
 title: "binary and hexadecimal explained for the curious"
 date: 2023-08-06
 ---
+test
 # binary and hexadecimal explained for the curious
 	you might have accidentally opened an app with a text editor at some point, 
 	maybe thought some file would be in plaintext but wasn't. Either way, you 
